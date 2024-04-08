@@ -10,12 +10,13 @@ Engenharia de Software
 ## Participantes
 
 > Os membros do grupo são:
-> Daniel Victor Souza Saldanha
-> Gabriel Ovidio Parreiras Vieira
-> Gabriel Reis Lebron de Oliveira
-> Gustavo Lima Dias
-> Luís Othávio Rangel
-> Vinicius Brito Dell Isola
+> 
+> Daniel Victor Souza Saldanha,
+> Gabriel Ovidio Parreiras Vieira,
+> Gabriel Reis Lebron de Oliveira,
+> Gustavo Lima Dias,
+> Luís Othávio Rangel,
+> Vinicius Brito Dell Isola.
 
 # Estrutura do Documento
 
