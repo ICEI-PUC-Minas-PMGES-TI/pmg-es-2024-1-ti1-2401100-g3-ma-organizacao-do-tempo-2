@@ -1,21 +1,21 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Má Organização do Tempo 2
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Engenharia de Software
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+Os membros do grupo são:
+Daniel Victor Souza Saldanha
+Gabriel Ovidio Parreiras Vieira
+Gabriel Reis Lebron de Oliveira
+Gustavo Lima Dias
+Luís Othávio Rangel
+Vinicius Brito Dell Isola
 
 # Estrutura do Documento
 
@@ -56,7 +56,9 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Má organização do tempo na atualidade. 
+
+Atualmente muitas pessoas tem dificuldade em organizar sua rotina, principalmente estudantes. Em vista disso, nosso grupo vem com o objetivo de ajudar a solucionar e organizar a vida desses jovens estudantes por meio da tecnologia, a partir da criação de um software que possibilite o usuario prganizar suas tarefas do dia. 
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
