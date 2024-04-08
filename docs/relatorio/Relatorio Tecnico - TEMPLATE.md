@@ -9,8 +9,8 @@ Engenharia de Software
 
 ## Participantes
 
-> Os membros do grupo são:
-> 
+Os membros do grupo são:
+
 > Daniel Victor Souza Saldanha,
 > Gabriel Ovidio Parreiras Vieira,
 > Gabriel Reis Lebron de Oliveira,
