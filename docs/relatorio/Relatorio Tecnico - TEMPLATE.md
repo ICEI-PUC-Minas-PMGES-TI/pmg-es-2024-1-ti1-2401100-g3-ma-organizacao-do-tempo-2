@@ -74,7 +74,7 @@ Os membros do grupo são:
 ### Abordagem metodologica:
 > Para abordar esse problema de forma holística, estamos considerando a implementação de metodologias como o Design Thinking. Esta abordagem centrada no ser humano nos permitirá explorar o problema de má gestão do tempo de maneira abrangente, desde a identificação das necessidades e desafios dos usuários até a concepção de soluções inovadoras. O Design Thinking, com suas fases de empatia, definição, ideação, prototipagem e teste, oferece um caminho promissor para entender profundamente o contexto em que nossa aplicação será utilizada e desenvolver uma solução que seja verdadeiramente eficaz e ressonante com as necessidades dos usuários finais.
 </div>
- ------
+
 
 # Objetivos
 <div align="justify">
