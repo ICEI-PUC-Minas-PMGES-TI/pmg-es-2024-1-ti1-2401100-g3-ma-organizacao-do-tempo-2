@@ -1,5 +1,5 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Projeto myORGANIZE
+Nosso projeto tem como objetivo trazer um software que ajuda pessoas a organizarem seu tempo de maneira facil e eficaz. 
 
 ## Alunos integrantes da equipe
 
