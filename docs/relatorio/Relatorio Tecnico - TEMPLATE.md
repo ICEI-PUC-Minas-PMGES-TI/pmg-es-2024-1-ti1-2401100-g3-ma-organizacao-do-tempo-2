@@ -100,7 +100,6 @@ Ao atingir esses objetivos específicos, o projeto visa cumprir seu objetivo ger
 
 </div>
 
-
 <div aling="justify">
   
 ## Justificativa
@@ -127,7 +126,6 @@ Optamos por concentrar nossos esforços na identificação das principais fontes
 > A inclusão de componentes destinados a incentivar práticas de trabalho saudáveis reflete nossa compreensão de que a tecnologia deve servir não apenas como uma ferramenta para aumentar a eficiência, mas também como um meio para promover o bem-estar. A ênfase em práticas saudáveis de trabalho é uma resposta direta à crescente preocupação com o equilíbrio entre trabalho e vida pessoal e o bem-estar dos colaboradores no ambiente corporativo.
 
 Ao aprofundar nesses aspectos específicos do software, nosso grupo visa não apenas abordar o problema da má gestão do tempo de uma maneira holística e eficaz, mas também contribuir para um ambiente de trabalho mais produtivo, saudável e equilibrado. Através da utilização de métodos investigativos como questionários e entrevistas, estamos comprometidos em compreender plenamente o problema em mãos e desenvolver uma solução que traga melhorias tangíveis para usuários finais e organizações.
-
 </div>
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
