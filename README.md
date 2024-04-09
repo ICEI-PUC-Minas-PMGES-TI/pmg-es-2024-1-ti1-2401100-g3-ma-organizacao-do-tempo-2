@@ -14,7 +14,7 @@ Nosso projeto tem como objetivo trazer um software que ajuda pessoas a organizar
 
 * Danilo Boechat Seufitelli
 * Diego Augusto de Faria Barros
-* Nome completo do professor 2
+* Simone Alves Nogueira
 
 ## Instruções de utilização
 
