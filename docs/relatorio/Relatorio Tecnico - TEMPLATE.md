@@ -140,9 +140,36 @@ Ao aprofundar nesses aspectos específicos do software, nosso grupo visa não ap
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
+
+<div align="justify"> 
+  
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> A aplicação destinada à otimização da gestão do tempo no ambiente corporativo será projetada para atender a uma ampla gama de usuários, com diferentes perfis, conhecimentos prévios, relações com a tecnologia e posições hierárquicas. Abaixo, descrevemos de forma mais detalhada os diferentes perfis de usuários que visamos atender com nossa solução.
+
+## Perfis de Usuários
+### Colaboradores de Base
+> Conhecimentos Prévios: Variável, podendo ir de usuários com pouco conhecimento técnico a indivíduos altamente capacitados em suas áreas de especialização.
+Relação com a Tecnologia: Geralmente confortáveis com o uso de tecnologia, mas preferem soluções intuitivas e fáceis de usar que não exijam uma curva de aprendizado íngreme.
+Relações Hierárquicas: Atuam em níveis operacionais ou de suporte dentro da organização, realizando tarefas específicas ou trabalhando em projetos sob a direção de gestores de equipe ou líderes de projeto.
+### Gestores de Equipe e Líderes de Projeto
+>Conhecimentos Prévios: Possuem uma compreensão abrangente dos processos de negócios de suas equipes, bem como habilidades de gerenciamento de projetos e liderança de equipe.
+Relação com a Tecnologia: Experientes e exigentes quanto ao uso de tecnologia, valorizam ferramentas que ofereçam eficácia na comunicação e na gestão de tarefas e projetos.
+Relações Hierárquicas: Responsáveis por liderar equipes, definir diretrizes e garantir a entrega de resultados. Interessados em ferramentas que possam facilitar o planejamento, a execução e o acompanhamento de projetos.
+### Executivos e Tomadores de Decisão
+>Conhecimentos Prévios: Possuem uma visão estratégica do negócio e um entendimento profundo dos objetivos organizacionais.
+Relação com a Tecnologia: Buscam soluções tecnológicas que possam fornecer dados para suporte à tomada de decisão, melhorar a eficiência organizacional e contribuir para o alcance dos objetivos de negócio.
+Relações Hierárquicas: Ocupam posições de alta gestão, focando na definição de estratégias e na otimização dos recursos organizacionais.
+### Equipes de TI e Suporte Técnico
+>Conhecimentos Prévios: Alto nível de conhecimento técnico, especializados em tecnologia da informação e suporte.
+Relação com a Tecnologia: Profundamente envolvidos com a implementação, manutenção e suporte de soluções tecnológicas dentro da organização.
+Relações Hierárquicas: Prestam suporte às necessidades tecnológicas de todos os níveis da organização, garantindo que as ferramentas e sistemas estejam funcionando eficientemente.
+##Considerações Gerais
+>A diversidade de perfis de usuários requer que nossa aplicação seja versátil e adaptável às diferentes necessidades e níveis de competência tecnológica. Além disso, é importante que a solução possa ser personalizada para atender às especificidades de cada função e nível hierárquico dentro da organização, garantindo que todos os usuários possam se beneficiar de uma gestão de tempo mais eficaz. A interface da aplicação deverá ser intuitiva e acessível, minimizando a necessidade de treinamento extensivo e permitindo que os usuários comecem a obter benefícios desde a implementação inicial.
+
+Ao compreender melhor o perfil dos usuários, podemos assegurar que o desenvolvimento da aplicação seja guiado por uma abordagem centrada no usuário, o que é fundamental para criar uma solução que não apenas atenda, mas também exceda suas expectativas e necessidades.
+
+</div>
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
