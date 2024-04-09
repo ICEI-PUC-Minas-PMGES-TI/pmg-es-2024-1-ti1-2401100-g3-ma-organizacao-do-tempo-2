@@ -12,7 +12,8 @@ Nosso projeto tem como objetivo trazer um software que ajuda pessoas a organizar
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
+* Danilo Boechat Seufitelli
+* Diego Augusto de Faria Barros
 * Nome completo do professor 2
 
 ## Instruções de utilização
