@@ -100,10 +100,35 @@ Ao atingir esses objetivos específicos, o projeto visa cumprir seu objetivo ger
 
 </div>
 
-
+<div aling="justify">
+  
+  
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> A escolha de desenvolver uma aplicação focada na melhoria da gestão do tempo no ambiente corporativo nasce de uma necessidade clara e crescente observada no mundo moderno do trabalho. Em uma era caracterizada por rápidas mudanças tecnológicas, globalização e uma incessante demanda por produtividade e eficiência, a capacidade de gerenciar o tempo eficazmente tornou-se uma habilidade crucial, não apenas para o sucesso individual, mas também para a sustentabilidade organizacional. Abaixo, detalhamos a importância e a motivação por trás deste projeto, bem como as razões para a escolha de nossos objetivos específicos.
+
+### Importância e Motivação
+> Necessidade de eficiência e produtividade. Empresas de todos os tamanhos enfrentam a pressão constante para entregar resultados, muitas vezes com recursos limitados. Uma gestão eficaz do tempo permite que as organizações maximizem esses recursos, aumentando a produtividade sem comprometer a qualidade do trabalho ou o bem-estar dos colaboradores.
+
+### Bem-estar dos Colaboradores
+> O equilíbrio entre a vida profissional e pessoal é fundamental para a saúde mental e física dos trabalhadores. Uma aplicação que auxilia na gestão do tempo pode reduzir significativamente os níveis de estresse e prevenir a exaustão profissional, contribuindo para um ambiente de trabalho mais saudável e sustentável.
+
+### Adaptação às Mudanças Tecnológicas
+> À medida que novas tecnologias são introduzidas nos ambientes de trabalho, surge a necessidade de adaptar as práticas de gestão do tempo. Uma aplicação que integra essas tecnologias pode facilitar uma transição suave, promovendo métodos de trabalho mais eficientes e adaptáveis.
+
+### Razões para a Escolha dos Objetivos Específicos
+> Foco na Análise Detalhada das Ineficiências
+Optamos por concentrar nossos esforços na identificação das principais fontes de ineficiência de tempo através de pesquisas e análises detalhadas porque entender a raiz do problema é fundamental para desenvolver soluções eficazes. Utilizando questionários, entrevistas e análise de dados estatísticos, pretendemos ganhar insights profundos sobre as necessidades específicas dos usuários finais, permitindo que a aplicação seja cuidadosamente adaptada para atender a essas necessidades.
+
+### Desenvolvimento de Funcionalidades Focadas
+> A decisão de desenvolver funcionalidades específicas de agendamento, priorização de tarefas e facilitação da comunicação entre equipes baseia-se na convicção de que esses elementos são pilares fundamentais para uma gestão de tempo eficaz. A escolha desses focos foi influenciada por dados preliminares e feedback do potencial usuário, destacando a necessidade de ferramentas que não apenas organizem o tempo, mas também promovam uma colaboração eficiente e reduzam as barreiras à produtividade.
+
+### Promoção de Práticas de Trabalho Saudáveis
+> A inclusão de componentes destinados a incentivar práticas de trabalho saudáveis reflete nossa compreensão de que a tecnologia deve servir não apenas como uma ferramenta para aumentar a eficiência, mas também como um meio para promover o bem-estar. A ênfase em práticas saudáveis de trabalho é uma resposta direta à crescente preocupação com o equilíbrio entre trabalho e vida pessoal e o bem-estar dos colaboradores no ambiente corporativo.
+
+Ao aprofundar nesses aspectos específicos do software, nosso grupo visa não apenas abordar o problema da má gestão do tempo de uma maneira holística e eficaz, mas também contribuir para um ambiente de trabalho mais produtivo, saudável e equilibrado. Através da utilização de métodos investigativos como questionários e entrevistas, estamos comprometidos em compreender plenamente o problema em mãos e desenvolver uma solução que traga melhorias tangíveis para usuários finais e organizações.
+
+</div>
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
