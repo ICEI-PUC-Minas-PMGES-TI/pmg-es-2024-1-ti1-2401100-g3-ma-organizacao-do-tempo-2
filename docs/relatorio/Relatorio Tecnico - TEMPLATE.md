@@ -57,20 +57,20 @@ Os membros do grupo são:
 
 ## Problema
 <div align="justify">
-Má organização do tempo na atualidade. 
+###Má organização do tempo na atualidade. 
 
 > A má gestão do tempo é um desafio contemporâneo que afeta indivíduos em diversos contextos, desde o ambiente profissional até a vida pessoal. Este problema é multifacetado, originando-se de uma combinação de fatores tecnológicos, sociais e individuais, e traz consequências significativas tanto para o bem-estar dos indivíduos quanto para a produtividade e eficácia organizacional. Algumas causas da má gestão do tempo são: a aceleração tecnológica e sobrecarga de informação pois a era digital trouxe consigo um fluxo incessante de informações e a constante disponibilidade de ferramentas de comunicação. Embora tenham o potencial de aumentar a eficiência, esses avanços também podem levar à sobrecarga de informações, onde a capacidade de processar e priorizar tarefas é comprometida. A dificuldade em desconectar-se de dispositivos e plataformas digitais também contribui para a diluição do foco e a procrastinação. As expectativas socioculturais em relação à produtividade e ao sucesso também exercem uma pressão significativa sobre a gestão do tempo. A valorização da ocupação constante e da multitarefa, muitas vezes, promove uma cultura de trabalho que favorece a quantidade em detrimento da qualidade, levando a uma gestão ineficaz do tempo e a falta de habilidades de gerenciamento de tempo, a educação formal dificilmente inclui treinamento em gerenciamento de tempo, deixando muitos indivíduos sem as ferramentas necessárias para planejar efetivamente suas atividades, estabelecer prioridades ou definir limites saudáveis entre trabalho e vida pessoal. A falta dessas habilidades fundamentais é um obstáculo significativo para uma gestão eficaz do tempo e como consequência temos a redução da produtividade e qualidade do trabalho, com a incapacidade de gerenciar o tempo de maneira eficaz pode levar a prazos perdidos, trabalho de baixa qualidade e oportunidades perdidas. No ambiente de trabalho, isso pode resultar em estresse, insatisfação e, eventualmente, esgotamento profissional, tambem pode ocorrer prejuízos ao bem-estar físico e mental; com a má gestão do tempo frequentemente resulta em estresse crônico, ansiedade e até depressão. O equilíbrio entre vida profissional e pessoal é comprometido, afetando negativamente a saúde física e mental. A longo prazo, isso pode levar a problemas de saúde mais sérios, incluindo doenças cardíacas e transtornos do sono alem do impacto nas relações pessoais e profissionais pois a incapacidade de cumprir compromissos e a constante sensação de estar sobrecarregado podem prejudicar relacionamentos pessoais e profissionais. A confiança e o respeito mútuo podem ser erodidos, afetando negativamente tanto a colaboração no local de trabalho quanto a harmonia em relações pessoais. A questão central que nossa aplicação se propõe a resolver se enraíza profundamente na problemática contemporânea da má gestão do tempo, especialmente no ambiente corporativo, onde as demandas são altas e o tempo é um recurso escasso e valioso. Este desafio transcende os limites individuais, afetando coletivamente a produtividade, o bem-estar dos colaboradores e, por extensão, a saúde organizacional como um todo.
 
-Contexto de uso:
+### Contexto de uso:
 > Ambiente Corporativo.Nossa aplicação é projetada para o ecossistema empresarial, que é caracteristicamente dinâmico, altamente conectado e frequentemente sujeito a prazos apertados e objetivos ambiciosos. As empresas, independentemente do seu porte ou do setor de atuação, enfrentam o desafio comum de otimizar a alocação do tempo de seus colaboradores para maximizar a eficiência e a eficácia.
 
-Tecnologias envolvidas:
+### Tecnologias envolvidas:
 > No coração desse ecossistema estão diversas tecnologias - desde plataformas de comunicação até ferramentas de gestão de projetos e sistemas de informação empresarial. Apesar de seu potencial para aumentar a produtividade, essas tecnologias também podem contribuir para a sobrecarga de informações e a dificuldade de gerenciar o tempo de forma eficaz, devido à constante interrupção e à multiplicidade de tarefas que exigem atenção simultânea.
 
-Desafio identificado:
+### Desafio identificado:
 > O desafio da má gestão do tempo manifesta-se por meio de prazos não cumpridos, projetos atrasados, sobrecarga de trabalho e, não raramente, o comprometimento da qualidade de vida dos colaboradores, levando a situações de estresse e burnout. A complexidade deste problema é ampliada pela natureza intangível do tempo, tornando sua gestão uma habilidade crítica, porém, muitas vezes, subdesenvolvida.
 
-Abordagem metodologica:
+### Abordagem metodologica:
 > Para abordar esse problema de forma holística, estamos considerando a implementação de metodologias como o Design Thinking. Esta abordagem centrada no ser humano nos permitirá explorar o problema de má gestão do tempo de maneira abrangente, desde a identificação das necessidades e desafios dos usuários até a concepção de soluções inovadoras. O Design Thinking, com suas fases de empatia, definição, ideação, prototipagem e teste, oferece um caminho promissor para entender profundamente o contexto em que nossa aplicação será utilizada e desenvolver uma solução que seja verdadeiramente eficaz e ressonante com as necessidades dos usuários finais.
 </div>
  ------
@@ -92,8 +92,32 @@ Abordagem metodologica:
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+<div aling="justify">
+### Objetivo Geral
+> O objetivo geral deste projeto é desenvolver um software que aborde de maneira eficaz o problema da má gestão do tempo no ambiente corporativo. A solução buscará oferecer ferramentas que otimizem a alocação e utilização do tempo pelos colaboradores, com o intuito de melhorar a produtividade e eficiência organizacional, ao mesmo tempo em que promove o bem-estar dos funcionários e a harmonia entre a vida profissional e pessoal.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+### Objetivos Específicos
+### Mapear e Analisar as Ineficiências na Gestão do Tempo: 
+> Este objetivo envolve conduzir uma pesquisa detalhada para identificar as principais causas da má gestão do tempo dentro do ambiente corporativo. A investigação focará em entender as rotinas diárias, as ferramentas de trabalho empregadas atualmente e os principais desafios enfrentados pelos colaboradores para gerenciar seu tempo de forma efetiva. Essa análise permitirá identificar as necessidades específicas dos usuários finais e orientará o desenvolvimento das funcionalidades do software.
+
+### Desenvolver Funcionalidades de Agendamento e Priorização de Tarefas: 
+> Com base nos dados coletados, o software incorporará funcionalidades robustas para o agendamento de tarefas e a definição de prioridades, permitindo que os usuários planejem suas atividades de maneira mais eficiente. Estas ferramentas serão desenhadas para serem intuitivas e fáceis de usar, garantindo que os colaboradores possam rapidamente organizar suas obrigações e identificar as prioridades, facilitando a concentração em tarefas que requerem atenção imediata e reduzindo a procrastinação.
+
+### Facilitar a Comunicação e Colaboração entre Equipes: 
+> Outro aspecto crucial do software será a incorporação de recursos que promovam uma comunicação eficaz e colaboração entre as equipes. Isso inclui funcionalidades que permitam compartilhar agendas, definir lembretes para prazos de projetos compartilhados e sincronizar tarefas entre diferentes membros da equipe. Ao melhorar a coordenação das atividades de equipe, o software visa reduzir duplicidades e mal-entendidos, otimizando o uso do tempo coletivo.
+
+### Promover Práticas de Trabalho Saudáveis: 
+> Além de funcionalidades técnicas, o software também incluirá componentes destinados a incentivar práticas de trabalho saudáveis. Isso pode envolver lembretes para pausas regulares, dicas para gerenciamento de estresse e ferramentas para ajudar os colaboradores a estabelecer limites claros entre o trabalho e o tempo pessoal. O objetivo é criar um ambiente de trabalho que suporte um equilíbrio saudável entre a vida profissional e pessoal, contribuindo para a redução do estresse e a prevenção da exaustão.
+
+Ao atingir esses objetivos específicos, o projeto visa cumprir seu objetivo geral de criar uma solução de software capaz de enfrentar eficazmente o problema da má gestão do tempo no ambiente corporativo, oferecendo uma ferramenta prática e benéfica tanto para a organização quanto para seus colaboradores.
+</div>
+
+
+
+
+
+
+
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
