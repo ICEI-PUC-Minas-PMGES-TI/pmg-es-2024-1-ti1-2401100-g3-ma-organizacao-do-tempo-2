@@ -100,10 +100,9 @@ Ao atingir esses objetivos específicos, o projeto visa cumprir seu objetivo ger
 
 </div>
 
-<div aling="justify">
-  
-## Justificativa
 
+<div align="justify">  
+## Justificativa
 > A escolha de desenvolver uma aplicação focada na melhoria da gestão do tempo no ambiente corporativo nasce de uma necessidade clara e crescente observada no mundo moderno do trabalho. Em uma era caracterizada por rápidas mudanças tecnológicas, globalização e uma incessante demanda por produtividade e eficiência, a capacidade de gerenciar o tempo eficazmente tornou-se uma habilidade crucial, não apenas para o sucesso individual, mas também para a sustentabilidade organizacional. Abaixo, detalhamos a importância e a motivação por trás deste projeto, bem como as razões para a escolha de nossos objetivos específicos.
 
 ### Importância e Motivação
