@@ -95,10 +95,10 @@ Os membros do grupo são:
 <div aling="justify">
 ## Objetivo Geral
 
-  > O objetivo geral deste projeto é desenvolver um software que aborde de maneira eficaz o problema da má gestão do tempo no ambiente corporativo. A solução buscará oferecer ferramentas que otimizem a alocação e utilização do tempo pelos colaboradores, com o intuito de melhorar a produtividade e eficiência organizacional, ao mesmo tempo em que promove o bem-estar dos funcionários e a harmonia entre a vida profissional e pessoal.
+> O objetivo geral deste projeto é desenvolver um software que aborde de maneira eficaz o problema da má gestão do tempo no ambiente corporativo. A solução buscará oferecer ferramentas que otimizem a alocação e utilização do tempo pelos colaboradores, com o intuito de melhorar a produtividade e eficiência organizacional, ao mesmo tempo em que promove o bem-estar dos funcionários e a harmonia entre a vida profissional e pessoal.
 
 ## Objetivos Específicos
-# Mapear e Analisar as Ineficiências na Gestão do Tempo: 
+### Mapear e Analisar as Ineficiências na Gestão do Tempo: 
 > Este objetivo envolve conduzir uma pesquisa detalhada para identificar as principais causas da má gestão do tempo dentro do ambiente corporativo. A investigação focará em entender as rotinas diárias, as ferramentas de trabalho empregadas atualmente e os principais desafios enfrentados pelos colaboradores para gerenciar seu tempo de forma efetiva. Essa análise permitirá identificar as necessidades específicas dos usuários finais e orientará o desenvolvimento das funcionalidades do software.
 
 ### Desenvolver Funcionalidades de Agendamento e Priorização de Tarefas: 
