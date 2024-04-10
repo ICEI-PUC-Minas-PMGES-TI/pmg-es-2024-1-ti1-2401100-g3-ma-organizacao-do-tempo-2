@@ -302,7 +302,7 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![Exemplo de UserFlow](images/wireflow.jpg)
 
 
 ## Wireframes
