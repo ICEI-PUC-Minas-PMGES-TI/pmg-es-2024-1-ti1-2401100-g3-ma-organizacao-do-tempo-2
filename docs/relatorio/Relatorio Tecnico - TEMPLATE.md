@@ -288,7 +288,7 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 ## User Flow
 
-> ![Userflow](imaages/../images/wireflow.png)
+> ![Userflow](imaages/../images/wireflow.jpg)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
