@@ -288,7 +288,7 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 ## User Flow
 
-images/wireflow.jpg
+> ![Userflow](imaages/../images/wireflow.png)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
@@ -303,7 +303,7 @@ images/wireflow.jpg
 
 ## Wireframes
 
-images/siteconcept.jpg
+> ![Witeframe](imaages/../images/siteconcept.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
