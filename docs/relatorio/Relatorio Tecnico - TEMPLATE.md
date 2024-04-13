@@ -1,10 +1,10 @@
 `TÍTULO DO PROJETO`  
 
-Má Organização do Tempo 2
+# Má Organização do Tempo 2
 
 `CURSO` 
 
-Engenharia de Software
+## Engenharia de Software
 
 ## Participantes
 
