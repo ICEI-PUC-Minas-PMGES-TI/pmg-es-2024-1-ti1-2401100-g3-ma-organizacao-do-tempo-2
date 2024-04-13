@@ -1,4 +1,4 @@
-# Informações do Projeto
+f# Informações do Projeto
 `TÍTULO DO PROJETO`  
 
 Má Organização do Tempo 2
@@ -319,9 +319,6 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 
 # Metodologia
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
 > a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
@@ -340,8 +337,8 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 ## Divisão de Papéis
 
- <b>- Daniel Victor Souza Saldanha:</b> Ficou responsável por, <br><br>
- <b>- Gabriel Ovidio Parreiras Vieira:</b> Ficou responsável por,<br><br>
+ <b>- Daniel Victor Souza Saldanha:</b> Ficou responsável por, responsável pelo desing thinking e pela apresentação do projeto.<br><br>
+ <b>- Gabriel Ovidio Parreiras Vieira:</b> Ficou responsável por, responsável pelo desing thinking e pela apresentação do projeto.<br><br>
  <b>- Gabriel Reis Lebron de Oliveira:</b> Ficou responsável pela documentação das metodologias adotadas pelo grupo no desenvolvimento do projeto e pela documentação da divisão de tarefas entre os membros.<br><br>
  <b>- Gustavo Lima Dias:</b> Ficou responsável pela questão da especificação do projeto.<br><br>
  <b>- Luís Othávio Rangel:</b> Ficou responsável pelo desenvolvimento do projeto de interface, desde o fluxo do usuário até a construção do protótipo interativo.<br><br>
