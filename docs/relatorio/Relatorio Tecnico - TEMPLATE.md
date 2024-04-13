@@ -343,20 +343,13 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 ## Divisão de Papéis
 
-> <b>- Daniel Victor Souza Saldanha:</b> Ficou responsável por, <br>
-> <b>- Gabriel Ovidio Parreiras Vieira:</b> Ficou responsável por,<br>
-> <b>- Gabriel Reis Lebron de Oliveira:</b> Ficou responsável pela documentação das metodologias adotadas pelo grupo no desenvolvimento do projeto e pela documentação da divisão de tarefas entre os membros.<br>
-> <b>- Gustavo Lima Dias:</b> Ficou responsável pela questão da especificação do projeto.<br>
-> <b>- Luís Othávio Rangel:</b> Ficou responsável pelo desenvolvimento do projeto de interface, desde o fluxo do usuário até a construção do protótipo interativo.<br>
-> <b>- Vinicius Brito Dell Isola:</b> Ficou responsável pela contextualização do projeto, desde o desenvolvimento da introdução até público alvo.
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
-
+ <b>- Daniel Victor Souza Saldanha:</b> Ficou responsável por, <br>
+ <b>- Gabriel Ovidio Parreiras Vieira:</b> Ficou responsável por,<br>
+ <b>- Gabriel Reis Lebron de Oliveira:</b> Ficou responsável pela documentação das metodologias adotadas pelo grupo no desenvolvimento do projeto e pela documentação da divisão de tarefas entre os membros.<br>
+ <b>- Gustavo Lima Dias:</b> Ficou responsável pela questão da especificação do projeto.<br>
+ <b>- Luís Othávio Rangel:</b> Ficou responsável pelo desenvolvimento do projeto de interface, desde o fluxo do usuário até a construção do protótipo interativo.<br>
+ <b>- Vinicius Brito Dell Isola:</b> Ficou responsável pela contextualização do projeto, desde o desenvolvimento da introdução até público alvo.
+ 
 ## Ferramentas
 
 ......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
