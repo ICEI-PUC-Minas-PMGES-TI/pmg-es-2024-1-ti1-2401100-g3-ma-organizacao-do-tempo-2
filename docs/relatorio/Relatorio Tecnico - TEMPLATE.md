@@ -51,8 +51,6 @@ Os membros do grupo são:
   - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
-- https://miro.com/
-- https://www.figma.com/
 
 
 # Introdução
@@ -501,7 +499,8 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- https://miro.com/
+- https://www.figma.com/
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
