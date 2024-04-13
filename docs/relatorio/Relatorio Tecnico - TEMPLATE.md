@@ -1,4 +1,3 @@
-f# Informações do Projeto
 `TÍTULO DO PROJETO`  
 
 Má Organização do Tempo 2
