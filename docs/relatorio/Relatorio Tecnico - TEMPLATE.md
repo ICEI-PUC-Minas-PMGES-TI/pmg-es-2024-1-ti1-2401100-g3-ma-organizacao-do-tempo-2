@@ -11,7 +11,8 @@ Engenharia de Software
 
 Os membros do grupo são:
 
-<b>- Daniel Victor Souza Saldanha<br>
+<b>
+ - Daniel Victor Souza Saldanha<br>
  - Gabriel Ovidio Parreiras Vieira<br>
  - Gabriel Reis Lebron de Oliveira<br>
  - Gustavo Lima Dias<br>
