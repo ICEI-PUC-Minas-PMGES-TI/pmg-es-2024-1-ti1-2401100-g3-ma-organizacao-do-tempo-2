@@ -51,6 +51,8 @@ Os membros do grupo são:
   - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
+- https://miro.com/
+- https://www.figma.com/
 
 
 # Introdução
