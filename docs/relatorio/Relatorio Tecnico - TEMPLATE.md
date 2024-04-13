@@ -499,6 +499,7 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 # Referências
 
+Referencias utilizadas no trabalho:
 - https://miro.com/
 - https://www.figma.com/
 
