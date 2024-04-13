@@ -315,10 +315,6 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 > - [Figma](https://www.figma.com/)
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
 
 
 # Metodologia
