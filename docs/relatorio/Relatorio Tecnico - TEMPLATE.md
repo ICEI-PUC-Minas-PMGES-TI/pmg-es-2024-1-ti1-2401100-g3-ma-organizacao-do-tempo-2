@@ -8,7 +8,7 @@
 
 ## Participantes
 
-Os membros do grupo são:
+`Os membros do grupo são:`
 
 <b>
  - Daniel Victor Souza Saldanha<br>
