@@ -152,9 +152,8 @@ Relações Hierárquicas: Ocupam posições de alta gestão, focando na definiç
 >Conhecimentos Prévios: Alto nível de conhecimento técnico, especializados em tecnologia da informação e suporte.
 Relação com a Tecnologia: Profundamente envolvidos com a implementação, manutenção e suporte de soluções tecnológicas dentro da organização.
 Relações Hierárquicas: Prestam suporte às necessidades tecnológicas de todos os níveis da organização, garantindo que as ferramentas e sistemas estejam funcionando eficientemente.
-##Considerações Gerais
->A diversidade de perfis de usuários requer que nossa aplicação seja versátil e adaptável às diferentes necessidades e níveis de competência tecnológica. Além disso, é importante que a solução possa ser personalizada para atender às especificidades de cada função e nível hierárquico dentro da organização, garantindo que todos os usuários possam se beneficiar de uma gestão de tempo mais eficaz. A interface da aplicação deverá ser intuitiva e acessível, minimizando a necessidade de treinamento extensivo e permitindo que os usuários comecem a obter benefícios desde a implementação inicial.
-
+## Considerações Gerais
+>A diversidade de perfis de usuários requer que nossa aplicação seja versátil e adaptável às diferentes necessidades e níveis de competência tecnológica. Além disso, é importante que a solução possa ser personalizada para atender às especificidades de cada função e nível hierárquico dentro da organização, garantindo que todos os usuários possam se beneficiar de uma gestão de tempo mais eficaz. A interface da aplicação deverá ser intuitiva e acessível, minimizando a necessidade de treinamento extensivo e permitindo que os usuários comecem a obter benefícios desde a implementação inicial.<br>
 Ao compreender melhor o perfil dos usuários, podemos assegurar que o desenvolvimento da aplicação seja guiado por uma abordagem centrada no usuário, o que é fundamental para criar uma solução que não apenas atenda, mas também exceda suas expectativas e necessidades.
 
 </div>
