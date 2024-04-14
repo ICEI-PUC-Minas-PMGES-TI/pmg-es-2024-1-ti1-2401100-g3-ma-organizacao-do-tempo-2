@@ -161,11 +161,7 @@ Ao compreender melhor o perfil dos usuários, podemos assegurar que o desenvolvi
 
 # Especificações do Projeto
 
-Nessa parte,  vamos abordar os principais clientes que nos almejamos que utilizem nosso software, quais são as requisitos funcionais e não funcionais do nosso projeto, e quais são suas prioridades dentro da programação de realização, e também as restrições que nosso projeto possui. Nos utilizamos principalmente o desing thinking, e as entrevistas para entender mais o problema e chegar em resultado que consiga agradar e solucionar a má gestão de tempo que muitas pessoas possuem.
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+> Nessa parte,  vamos abordar os principais clientes que nos almejamos que utilizem nosso software, quais são as requisitos funcionais e não funcionais do nosso projeto, e quais são suas prioridades dentro da programação de realização, e também as restrições que nosso projeto possui. Nos utilizamos principalmente o desing thinking, e as entrevistas para entender mais o problema e chegar em resultado que consiga agradar e solucionar a má gestão de tempo que muitas pessoas possuem.
 
 ## Personas e Mapas de Empatia
 
