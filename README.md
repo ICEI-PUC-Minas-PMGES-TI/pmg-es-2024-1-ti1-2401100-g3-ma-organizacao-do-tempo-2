@@ -1,4 +1,4 @@
-# Projeto myORGANIZE
+# Projeto myORGANIZATOR
 Nosso projeto tem como objetivo trazer um software que ajuda pessoas a organizarem seu tempo de maneira facil e eficaz. 
 
 ## Alunos integrantes da equipe
