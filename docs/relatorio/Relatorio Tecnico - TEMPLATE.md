@@ -281,11 +281,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 Nosso projeto possui um sistema de interfaces minimalista e simples que colaboram para o conforto e entendimento do usuario. No momento são ao todo 6 interfaces totalmente criadas para facilitar e ajudar o usuario a acessar o software e utilizar-lo de maneira simples e adequada, atendendo as principais funçoes de um sistema cujo objetivo é ajudar a organizar a rotina. 
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
-
 ## User Flow
 
 > ![Userflow](imaages/../images/wireflow.jpg)
