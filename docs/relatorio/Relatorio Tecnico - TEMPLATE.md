@@ -94,9 +94,8 @@
 > Outro aspecto crucial do software será a incorporação de recursos que promovam uma comunicação eficaz e colaboração entre as equipes. Isso inclui funcionalidades que permitam compartilhar agendas, definir lembretes para prazos de projetos compartilhados e sincronizar tarefas entre diferentes membros da equipe. Ao melhorar a coordenação das atividades de equipe, o software visa reduzir duplicidades e mal-entendidos, otimizando o uso do tempo coletivo.
 
 ### Promover Práticas de Trabalho Saudáveis: 
-> Além de funcionalidades técnicas, o software também incluirá componentes destinados a incentivar práticas de trabalho saudáveis. Isso pode envolver lembretes para pausas regulares, dicas para gerenciamento de estresse e ferramentas para ajudar os colaboradores a estabelecer limites claros entre o trabalho e o tempo pessoal. O objetivo é criar um ambiente de trabalho que suporte um equilíbrio saudável entre a vida profissional e pessoal, contribuindo para a redução do estresse e a prevenção da exaustão.
-
-Ao atingir esses objetivos específicos, o projeto visa cumprir seu objetivo geral de criar uma solução de software capaz de enfrentar eficazmente o problema da má gestão do tempo no ambiente corporativo, oferecendo uma ferramenta prática e benéfica tanto para a organização quanto para seus colaboradores.
+> Além de funcionalidades técnicas, o software também incluirá componentes destinados a incentivar práticas de trabalho saudáveis. Isso pode envolver lembretes para pausas regulares, dicas para gerenciamento de estresse e ferramentas para ajudar os colaboradores a estabelecer limites claros entre o trabalho e o tempo pessoal. O objetivo é criar um ambiente de trabalho que suporte um equilíbrio saudável entre a vida profissional e pessoal, contribuindo para a redução do estresse e a prevenção da exaustão.<br>
+> Ao atingir esses objetivos específicos, o projeto visa cumprir seu objetivo geral de criar uma solução de software capaz de enfrentar eficazmente o problema da má gestão do tempo no ambiente corporativo, oferecendo uma ferramenta prática e benéfica tanto para a organização quanto para seus colaboradores.
 
 </div>
 
