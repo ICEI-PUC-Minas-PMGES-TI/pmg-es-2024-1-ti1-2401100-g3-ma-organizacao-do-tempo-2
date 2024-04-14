@@ -199,10 +199,11 @@ Nessa parte,  vamos abordar os principais clientes que nos almejamos que utilize
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                   | 
+|--------------------|------------------------------------|------------------------------------------|
+|Estudante           | Registrar minhas tarefas           | Não esquecer de fazê-las                 |
+|Trabalhador         | Organizar minha rotina             | Descansar e passar tempo com a familia   |
+|Desenvolvedor       | Um software prático e moldavel     | Permitir a evolução constante do software|
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
