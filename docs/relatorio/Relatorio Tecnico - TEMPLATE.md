@@ -289,8 +289,8 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 ## Divisão de Papéis
 
-> <b>- Daniel Victor Souza Saldanha:</b> Ficou responsável pelo desing thinking e pela apresentação do projeto.<br><br>
-> <b>- Gabriel Ovidio Parreiras Vieira:</b> Ficou responsável pelo desing thinking e pela apresentação do projeto.<br><br>
+> <b>- Daniel Victor Souza Saldanha:</b> Ficou responsável pelo design thinking e pela apresentação do projeto.<br><br>
+> <b>- Gabriel Ovidio Parreiras Vieira:</b> Ficou responsável pelo design thinking e pela apresentação do projeto.<br><br>
 > <b>- Gabriel Reis Lebron de Oliveira:</b> Ficou responsável pela documentação das metodologias adotadas pelo grupo no desenvolvimento do projeto e pela documentação da divisão de tarefas entre os membros.<br><br>
 > <b>- Gustavo Lima Dias:</b> Ficou responsável pela questão da especificação do projeto.<br><br>
 > <b>- Luís Othávio Rangel:</b> Ficou responsável pelo desenvolvimento do projeto de interface, desde o fluxo do usuário até a construção do protótipo interativo.<br><br>
