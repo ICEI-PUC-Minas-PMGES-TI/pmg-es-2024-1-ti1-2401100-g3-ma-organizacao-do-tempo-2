@@ -269,6 +269,10 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 ## Wireframes
 
+LINK PARA MELHOR VISUALIZAÇÃO:
+
+[Figma](https://www.figma.com/proto/Poeie0lrm3Qfnbh7NKgyQ3/Trabalho-Interdisciplinar?node-id=1-11&mode=design&t=VUSMkUHQmAhaExEL-1)
+
 > ![Witeframe](imaages/../images/siteconcept.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
