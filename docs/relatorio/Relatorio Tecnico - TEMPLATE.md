@@ -298,7 +298,7 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
  
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+Ferramentas utilizadas: 
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
