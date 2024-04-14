@@ -332,7 +332,11 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso projeto possui as seguintes versões:
+> - `dev`: Repertório do Github
+> - `dev`: Desenvolvimento do projeto base do site
+> - `feature`: Criação de nova interfaçe
+> - `feature`: Criação de novas funcionalidades
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
