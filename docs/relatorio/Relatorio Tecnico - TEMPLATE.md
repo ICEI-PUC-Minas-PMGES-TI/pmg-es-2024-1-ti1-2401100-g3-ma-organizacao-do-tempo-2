@@ -165,7 +165,7 @@ Ao compreender melhor o perfil dos usuários, podemos assegurar que o desenvolvi
 
 ## Personas e Mapas de Empatia
 
-![Persona](imaages/../images/personasimg.png)
+![Persona](imaages/../images/personaimg.png)
 
 ## Histórias de Usuários
 
