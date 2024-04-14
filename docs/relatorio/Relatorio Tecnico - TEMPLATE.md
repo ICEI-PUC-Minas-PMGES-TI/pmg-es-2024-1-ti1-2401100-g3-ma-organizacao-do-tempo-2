@@ -187,7 +187,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas ou compromissos | ALTA | 
 |RF-002| Sinalizar através de alarmes os hórarios das atividades| MÉDIA |
-|RF-003| Possibilitar o salvar o loguin | ALTA | 
+|RF-003| Possibilitar salvar o login do usuario | ALTA | 
 |RF-004| Permitir que o usuário crie listas de tarefa diárias | ALTA |
 |RF-005| Permitir o cadastro de mais de uma tarefa | ALTA |
 |RF-006| Permitir o compartilhamento de dados com outros usuários| MÉDIA |
