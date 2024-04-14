@@ -169,7 +169,7 @@ Nessa parte,  vamos abordar os principais clientes que nos almejamos que utilize
 
 ## Personas e Mapas de Empatia
 
-![Persona](imaages/../images/personaimg.png)
+![Persona](imaages/../images/personasimg.png)
 
 ## Histórias de Usuários
 
