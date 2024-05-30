@@ -191,6 +191,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Permitir que o usuário crie listas de tarefa diárias | ALTA |
 |RF-005| Permitir o cadastro de mais de uma tarefa | ALTA |
 |RF-006| Permitir o compartilhamento de dados com outros usuários| MÉDIA |
+|RF-007| Permitir que o usuário cadastre eventos em dias e horários específicos| MÉDIA |
+|RF-008| Permitir que o usuário se organize por meio de bloco de notas| MÉDIA |
+|RF-009| Permitir que o usuário acompanhe o progresso da execução de suas tarefas| ALTA |
+|RF-010| Permitir que o usuário faça upload de imagens| MÉDIA |
+|RF-011| Permitir que o usuário encontre suas tarefas por meio de filtros pré-determinados| MÉDIA |
+|RF-012| Permitir que o usuário faça reclamações sobre o software| MÉDIA |
+
 
 
 ### Requisitos não Funcionais
@@ -200,8 +207,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| Otimização do sistema ao máximo | MÉDIA | 
-|RNF-004| Sistema de simples utilização | MÉDIA |
+|RNF-004| O sistema deve ser de fácil utilização e de simples compreensão | ALTA |
 |RNF-005| Suporte para usuário | MÉDIA |
+|RNF-006| Possibilidade de receber feedback | MÉDIA |
+|RNF-007| O sistema deve garantir a segurança de dados | ALTA |
+|RNF-008| Sistema de login rápido, sem a necessidade de inserir muitos dados | MÉDIA |
+
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
