@@ -133,7 +133,7 @@ Ao aprofundar nesses aspectos específicos do software, nosso grupo visa não ap
   
 ## Público-Alvo
 
-> A aplicação destinada à otimização da gestão do tempo no ambiente corporativo será projetada para atender a uma ampla gama de usuários, com diferentes perfis, conhecimentos prévios, relações com a tecnologia e posições hierárquicas, como por exemplo estudantes e trabalhadores. Abaixo, descrevemos de forma mais detalhada os diferentes perfis de usuários que visamos atender com nossa solução.
+> A aplicação destinada à otimização da gestão do tempo no ambiente corporativo será projetada para atender a uma ampla gama de usuários, com diferentes perfis, conhecimentos prévios, relações com a tecnologia e posições hierárquicas, como por exemplo estudantes, trabalhadores, estagiarios, e atletas. Abaixo, descrevemos de forma mais detalhada os diferentes perfis de usuários que visamos atender com nossa solução.
 
 ## Perfis de Usuários
 ### Colaboradores de Base
