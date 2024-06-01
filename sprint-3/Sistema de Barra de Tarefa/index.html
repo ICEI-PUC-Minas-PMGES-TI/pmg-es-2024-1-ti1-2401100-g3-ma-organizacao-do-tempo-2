@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barra Progresso</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Barra de Progresso</h1>
+        <div class="task-input">
+            <input type="text" id="new-task" placeholder="Adicione as tarefas a serem concluídas">
+            <button onclick="addTask()">Adicionar</button>
+        </div>
+        <ul id="task-list"></ul>
+        <div id="task-progress">
+            <div id="task-progress-bar"></div>
+        </div>
+        <div id="task-percentage"></div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
