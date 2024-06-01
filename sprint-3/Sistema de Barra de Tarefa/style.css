@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: #343333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    width: 90%;
+    max-width: 600px;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #fff6f6;
+    text-align: center;
+}
+
+.task-input {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.task-input input {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+.task-input input:focus {
+    border-color: #e97f0e;
+}
+
+.task-input button {
+    width: 25%;
+    padding: 10px;
+    background-color: #e27013;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.task-input button:hover {
+    background-color: #0056b3;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow-y: auto;
+    flex: 1;
+}
+
+li {
+    background: #656161;
+    padding: 15px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+li:hover {
+    background-color: #424541;
+}
+
+li .task-text {
+    flex: 1;
+    text-align: left;
+}
+
+li .complete, li .edit, li .delete {
+    cursor: pointer;
+    margin-left: 10px;
+    color: #ffffff;
+    transition: color 0.3s;
+}
+
+li .complete:hover, li .edit:hover, li .delete:hover {
+    color: #ffffff;
+}
+
+li.completed .task-text {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+#task-progress {
+    width: 100%;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 10px;
+    height: 20px;
+}
+
+#task-progress-bar {
+    height: 100%;
+    background-color: #e6800c;
+    width: 0;
+    transition: width 0.3s;
+}
+
+#task-percentage {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+}
