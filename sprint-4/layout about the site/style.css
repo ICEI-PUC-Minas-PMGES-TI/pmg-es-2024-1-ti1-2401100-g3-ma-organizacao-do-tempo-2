@@ -1,0 +1,130 @@
+.frame {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(180deg, rgb(14.88, 14.88, 14.88) 0%, rgb(31.88, 31.88, 31.88) 99%);
+    width: 1366px;
+    height: 768px;
+    position: relative;
+  }
+  
+  .frame .overlap {
+    width: 1366px;
+    height: 84px;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 10px 60px #0000001a;
+    position: absolute;
+    background-color: #1e1e1e;
+  }
+  
+  .frame .ORGANIZATOR {
+    position: absolute;
+    width: 139px;
+    height: 34px;
+    top: 25px;
+    left: 614px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    top: 30px;
+    left: 1228px;
+    font-family: "Alata-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-group {
+    width: 860px;
+    height: 637px;
+    top: 106px;
+    left: 253px;
+    border-radius: 30px;
+    box-shadow: 10px 4px 10px #ffffff0d;
+    position: absolute;
+    background-color: #1e1e1e;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    top: 64px;
+    left: 325px;
+    font-family: "Alata-Regular", Helvetica;
+    font-weight: 400;
+    color: #bd6635;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .p {
+    position: absolute;
+    width: 621px;
+    top: 178px;
+    left: 120px;
+    font-family: "Alata-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    width: 621px;
+    top: 277px;
+    left: 120px;
+    font-family: "Alata-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .img {
+    position: absolute;
+    width: 139px;
+    height: 34px;
+    top: 466px;
+    left: 425px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-4 {
+    position: absolute;
+    width: 128px;
+    top: 471px;
+    left: 297px;
+    font-family: "Alata-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-5 {
+    position: absolute;
+    top: 602px;
+    left: 375px;
+    font-family: "Alata-Regular", Helvetica;
+    font-weight: 400;
+    color: #bd6635;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
