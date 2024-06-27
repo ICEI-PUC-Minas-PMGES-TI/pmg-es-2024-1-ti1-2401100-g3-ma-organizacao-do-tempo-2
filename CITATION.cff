@@ -1,31 +1,37 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: myORGANIZATOR
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Lima Dias
+    given-names: Gustavo
+  - family-names: Rangel
+    given-names: Luís Othávio
+  - family-names: Brito Dell Isola
+    given-names: Vinicius
+  - family-names: Souza Saldanha
+    given-names: Daniel Victor
+  - family-names: Reis Lebron de Oliveira 
+    given-names: Gabriel
+  - family-names: Ovidio Parreiras Vieira
+    given-names: Gabriel 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Augusto de Faria Barros 
+    given-names: Diego
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Boechat Seufitelli 
+    given-names: Danilo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves Nogueira
+    given-names: Simone
 keywords:
-  - 
-  - 
-repository-code: 
+  - Organização
+  - Otimização
+  - Tempo
+  - Acessibilidade
+repository-code: https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g3-ma-organizacao-do-tempo-2
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2024-06-27
