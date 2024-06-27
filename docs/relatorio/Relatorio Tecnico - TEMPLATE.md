@@ -217,11 +217,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| Otimização do sistema ao máximo | MÉDIA | 
-|RNF-004| O sistema deve ser de fácil utilização e de simples compreensão | ALTA |
-|RNF-005| Suporte para usuário | MÉDIA |
-|RNF-006| Possibilidade de receber feedback | MÉDIA |
+|RNF-004| O desenvolvimento e operação do software devem seguir práticas de sustentabilidade, minimizando o impacto ambiental através de otimizações energéticas e uso responsável de recursos computacionais. | ALTA |
+|RNF-005| O sistema deve proporcionar um suporte para usuário de qualidade | BAIXA |
+|RNF-006| O software deve possibilitar o recebimento de feedbacks | MÉDIA |
 |RNF-007| O sistema deve garantir a segurança de dados | ALTA |
 |RNF-008| Sistema de login rápido, sem a necessidade de inserir muitos dados | MÉDIA |
+|RNF-009| O software deve ter uma disponibilidade de 99,9%, minimizando o tempo de inatividade | MÉDIA | 
+|RNF-010| O software deve ser compatível com os principais sistemas operacionais (Windows, macOS, Linux) e navegadores |  MÉDIA | 
+|RNF-011| O código do software deve ser bem documentado e estruturado, facilitando a manutenção e a adição de novas funcionalidades | MÉDIA | 
+|RNF-012| A interface do usuário deve ser intuitiva e fácil de usar, permitindo que novos usuários aprendam a utilizar as principais funcionalidades do software | ALTA |
 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
