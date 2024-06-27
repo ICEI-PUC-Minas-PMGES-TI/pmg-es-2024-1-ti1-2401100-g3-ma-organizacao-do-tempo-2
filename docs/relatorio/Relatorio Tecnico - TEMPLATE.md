@@ -173,9 +173,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                   | 
 |--------------------|------------------------------------|------------------------------------------|
-|Estudante           | Registrar minhas tarefas           | Não esquecer de fazê-las                 |
-|Trabalhador         | Organizar minha rotina             | Descansar e passar tempo com a familia   |
-|Desenvolvedor       | Um software prático e moldavel     | Permitir a evolução constante do software|
+| Estudante universitário        | organizar minhas tarefas e prazos de diferentes disciplinas                                          | que eu possa gerenciar melhor meu tempo de estudo e evitar sobrecarga.                 |
+| Freelancer                     | rastrear o tempo gasto em diferentes projetos e tarefas                                              | que eu possa faturar meus clientes com precisão e melhorar minha produtividade.        |
+| Pai ocupado                    | sincronizar meu calendário familiar com as atividades escolares e extracurriculares dos meus filhos  | que nossa rotina diária seja organizada e sem conflitos.                               |
+| Profissional de vendas         | definir lembretes de seguimento com meus clientes                                                    | que eu possa manter um relacionamento ativo e não perder oportunidades de venda.       |
+| Professor                      | planejar e organizar minhas aulas e atividades de avaliação                                          | para que eu possa fornecer um ensino eficaz e acompanhar o progresso dos alunos.       |
+| Empreendedor                   | gerenciar minhas reuniões e compromissos de negócios                                                 |que eu possa maximizar meu tempo e focar no crescimento da minha empresa.               |
+| Atleta                         | organizar meus treinos e competições                                                                 | que eu possa manter um cronograma equilibrado e alcançar meus objetivos de desempenho. |
+| Artista                        | planejar meus projetos criativos e prazos de entrega                                                 | que eu possa manter a inspiração e concluir meus trabalhos dentro do tempo estipulado. |
+| Estudante do ensino médio      | equilibrar minhas responsabilidades escolares com atividades extracurriculares e tempo de lazer      | que eu possa manter um bom desempenho acadêmico e uma vida pessoal satisfatória.       |
+| Desenvolvedor de software      | integrar minhas tarefas com ferramentas de desenvolvimento como Jira ou GitHub                       |  que eu possa gerenciar meu fluxo de trabalho de forma eficiente.                      |
+| Gerente de projeto             | criar e atribuir tarefas à minha equipe, para que todos saibam suas responsabilidades e prazos       | garantindo o progresso eficiente do projeto                                            |
+| Consultor                      | agendar e acompanhar minhas reuniões com clientes e prazos de entrega de projetos                    | que eu possa oferecer um serviço de alta qualidade e manter meus clientes satisfeitos. |
+
 
 ## Requisitos
 
