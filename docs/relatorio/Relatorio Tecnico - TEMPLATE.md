@@ -468,7 +468,15 @@ Nosso projeto possui as seguintes versões:
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**TO DO LIST**
+
+| Caso de Teste | Descrição | Passos | Resultado Esperado | Resultado Obtido | Status |
+|----------------|-----------|--------|--------------------|------------------|--------|
+| **Adicionar Tarefa** | Verificar se uma nova tarefa pode ser adicionada à lista. | 1. Digitar uma nova tarefa no campo de entrada.<br>2. Clicar no botão "Adicionar tarefa". | A nova tarefa deve ser exibida na lista de tarefas. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Editar Tarefa** | Verificar se é possível editar uma tarefa existente na lista. | 1. Clicar no botão "Editar" ao lado da tarefa desejada.<br>2. Modificar o texto da tarefa.<br>3. Clicar no botão "Save". | O texto da tarefa deve ser atualizado com o novo valor. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Excluir Tarefa** | Verificar se é possível excluir uma tarefa da lista. | 1. Clicar no botão "Delete" ao lado da tarefa que deseja excluir. | A tarefa selecionada deve ser removida da lista. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Salvar Tarefas** | Verificar se as tarefas são salvas corretamente no localStorage. | 1. Adicionar várias tarefas à lista.<br>2. Recarregar a página.<br>3. Verificar se as tarefas adicionadas anteriormente estão presentes na lista. | As tarefas adicionadas anteriormente devem ser exibidas na lista após recarregar a página. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Validação de Entrada** | Verificar se a validação impede a adição de tarefas em branco. | 1. Deixar o campo de entrada em branco.<br>2. Tentar adicionar uma nova tarefa. | A nova tarefa não deve ser adicionada à lista. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
