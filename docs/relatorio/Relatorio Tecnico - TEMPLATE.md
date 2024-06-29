@@ -548,6 +548,8 @@ Nosso projeto possui as seguintes versões:
 
 ## Registros de Testes
 
+Depois de realizar e analisar os testes do login, do cadastro, do gerenciamento de usuário, do to do list, da barra de progresso, do imagem uploader, do cadastro de tarefa, do calendario e do bloco de notas, identificamos bastante pontos fortes e pontos de melhoria. Os pontos de melhoria encontrados foram apenas algumas pequenas falhasna formatação, desingn e armazenamento dos dados de algumas funcionalidades durante os testes Para melhorar, refizemos o java script responsavél por armazenar os dados e melhoramos o html e css das estruturas.
+
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
 > esses pontos nas próximas iterações. Apresente as falhas detectadas e
