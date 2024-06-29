@@ -533,6 +533,27 @@ Nosso projeto possui as seguintes versões:
 | **Salvar Notas no localStorage** | Verificar se as notas são salvas corretamente no localStorage. | 1. Adicionar várias notas.<br>2. Recarregar a página.<br>3. Verificar se as notas adicionadas anteriormente ainda estão na lista. | As notas devem ser restauradas na lista após a recarga da página. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 | **Validação de Entrada** | Verificar se a validação impede a criação ou edição de notas sem título ou conteúdo. | 1. Tentar criar ou editar uma nota sem inserir título e/ou conteúdo.<br>2. Verificar se o sistema impede a operação e alerta o usuário. | O sistema não deve permitir a criação ou edição de notas sem título e conteúdo, exibindo alertas apropriados. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 
+**LOGIN**
+
+| Caso de Teste | Descrição | Passos | Resultado Esperado | Resultado Obtido | Status |
+|----------------|-----------|--------|--------------------|------------------|--------|
+| **Login com Credenciais Corretas** | Verificar se é possível fazer login com credenciais corretas. | 1. Preencher o campo "Nome de Usuário" com um nome de usuário válido.<br>2. Preencher o campo "Senha" com a senha correspondente ao nome de usuário.<br>3. Clicar no botão "Entrar". | O usuário deve ser redirecionado para a página "options.html". | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Login com Credenciais Incorretas** | Verificar se o sistema impede o login com credenciais incorretas. | 1. Preencher o campo "Nome de Usuário" com um nome de usuário inválido ou inexistente.<br>2. Preencher o campo "Senha" com uma senha incorreta.<br>3. Clicar no botão "Entrar". | O sistema deve exibir um alerta informando "Nome de usuário ou senha incorretos". | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+
+**CADASTRO**
+
+| Caso de Teste | Descrição | Passos | Resultado Esperado | Resultado Obtido | Status |
+|----------------|-----------|--------|--------------------|------------------|--------|
+| **Cadastro de Novo Usuário** | Verificar se é possível cadastrar um novo usuário com informações válidas. | 1. Preencher o campo "Nome" com um nome válido.<br>2. Preencher o campo "Email" com um email válido e único.<br>3. Preencher o campo "Senha" e "Confirmar Senha" com a mesma senha.<br>4. Clicar no botão "Cadastrar". | O usuário deve ser cadastrado com sucesso e redirecionado para a página "login.html". | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Cadastro com Senhas Diferentes** | Verificar se o sistema impede o cadastro quando as senhas não coincidem. | 1. Preencher o campo "Senha" com uma senha.<br>2. Preencher o campo "Confirmar Senha" com uma senha diferente da anterior.<br>3. Clicar no botão "Cadastrar". | O sistema deve exibir um alerta informando "As senhas não coincidem". | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Cadastro com Email Já Existente** | Verificar se o sistema impede o cadastro quando o email já está em uso por outro usuário. | 1. Preencher o campo "Email" com um email que já está cadastrado em outro usuário.<br>2. Clicar no botão "Cadastrar". | O sistema deve exibir um alerta informando "Email já cadastrado". | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+
+> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
+> fracos identificados na solução. Comente como o grupo pretende atacar
+> esses pontos nas próximas iterações. Apresente as falhas detectadas e
+> as melhorias geradas a partir dos resultados obtidos nos testes.
+
+
 # Referências
 
 Referencias utilizadas no trabalho:
