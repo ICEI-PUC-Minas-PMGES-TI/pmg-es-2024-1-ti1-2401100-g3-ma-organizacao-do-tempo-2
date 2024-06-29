@@ -298,7 +298,7 @@ LINK PARA MELHOR VISUALIZAÇÃO:
 
 [Projeto de Interface | Wireframe](https://www.figma.com/proto/Poeie0lrm3Qfnbh7NKgyQ3/Trabalho-Interdisciplinar?node-id=1-11&mode=design&t=VUSMkUHQmAhaExEL-1)
 
-> ![Witeframe](imaages/../images/siteconcept.png)
+> ![Witeframe](imaages/../images/wireframe.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -408,6 +408,9 @@ Nosso projeto possui as seguintes versões:
 ## Tecnologias Utilizadas
 
 O objetivo geral deste projeto é desenvolver um software que aborde de maneira eficaz o problema da má gestão do tempo no ambiente corporativo. A solução visa oferecer ferramentas que otimizem a alocação e utilização do tempo pelos colaboradores, com o propósito de aumentar a produtividade e a eficiência organizacional. As tecnologias utilizadas serão questionarios de perguntas paras estudades e trabalhadores em geral para podermos criar uma solução que atenda os problemas enumerados por eles, além disso vamos utilizar o desing thinking, scrum para organização das tarefas, github para organização da produção do projeto, Visual Studio Code para implementação dos codigos, miro figma e canvas para produção do desing, capcut para edição do video, PowerPoint para produção da apresetação, google para pesquisas em geral, e possivelmente heroku para fazer hospedagem do site. As linguagens utilizadas serão HTML, CSS e JAVA SCRIPT.
+
+> ![Userflow](imaages/../images/wireflow.jpg)
+> ![Witeframe](imaages/../images/wireframe.png)
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
