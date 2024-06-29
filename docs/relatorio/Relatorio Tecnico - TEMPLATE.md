@@ -486,10 +486,6 @@ Nosso projeto possui as seguintes versões:
 | **Editar Tarefa** | Verificar se é possível editar o texto de uma tarefa existente na lista. | 1. Clicar no botão "Editar" ao lado da tarefa desejada.<br>2. Modificar o texto da tarefa.<br>3. Clicar fora do campo editável para salvar. | O texto da tarefa deve ser atualizado com o novo valor. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 | **Concluir Tarefa** | Verificar se é possível marcar uma tarefa como concluída. | 1. Clicar no botão "Concluir" ao lado da tarefa desejada. | A tarefa selecionada deve ser marcada como concluída visualmente (alteração de estilo). | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 | **Excluir Tarefa** | Verificar se é possível excluir uma tarefa da lista. | 1. Clicar no botão "Excluir" ao lado da tarefa que deseja remover. | A tarefa selecionada deve ser removida da lista. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
 
 **IMAGEM UPLOADER**
 
