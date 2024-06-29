@@ -491,6 +491,17 @@ Nosso projeto possui as seguintes versões:
 > esses pontos nas próximas iterações. Apresente as falhas detectadas e
 > as melhorias geradas a partir dos resultados obtidos nos testes.
 
+**IMAGEM UPLOADER**
+
+| Caso de Teste | Descrição | Passos | Resultado Esperado | Resultado Obtido | Status |
+|----------------|-----------|--------|--------------------|------------------|--------|
+| **Upload de Imagem** | Verificar se é possível fazer upload de uma imagem. | 1. Clicar no botão "Adicionar Imagem".<br>2. Selecionar uma imagem no diálogo de seleção de arquivo.<br>3. Verificar se a imagem é exibida na lista de imagens. | A imagem deve ser adicionada à lista de imagens visível na interface. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Visualizar Imagem em Tela Cheia** | Verificar se é possível visualizar uma imagem em tela cheia ao clicar sobre ela. | 1. Clicar em uma imagem na lista de imagens. | A imagem deve ser exibida em uma modal em tela cheia. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Excluir Imagem** | Verificar se é possível excluir uma imagem da lista. | 1. Clicar no botão de exclusão (ícone de "X") ao lado da imagem desejada na lista. | A imagem selecionada deve ser removida da lista de imagens. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Editar Imagem** | Verificar se é possível editar uma imagem na lista. | 1. Clicar no botão de edição (ícone de lápis) ao lado da imagem desejada na lista. <br>2. Selecionar uma nova imagem no diálogo de seleção de arquivo.<br>3. Verificar se a imagem na lista foi atualizada com a nova imagem. | A imagem na lista deve ser substituída pela nova imagem selecionada. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Salvar Imagens no localStorage** | Verificar se as imagens são salvas corretamente no localStorage. | 1. Adicionar várias imagens.<br>2. Recarregar a página.<br>3. Verificar se as imagens adicionadas anteriormente ainda estão na lista. | As imagens devem ser restauradas na lista após a recarga da página. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Validação de Entrada** | Verificar se a validação impede a adição de arquivos que não sejam imagens. | 1. Tentar adicionar um arquivo que não seja uma imagem (por exemplo, um arquivo de texto). | O sistema não deve permitir a adição do arquivo e deve manter a lista de imagens inalterada. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+
 
 # Referências
 
