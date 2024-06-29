@@ -525,11 +525,6 @@ Nosso projeto possui as seguintes versões:
 | **Visualizar Dados do Usuário Logado** | Verificar se os dados do usuário logado são carregados na tela de gerenciamento. | 1. Logar com um usuário válido.<br>2. Verificar se os campos "Nome" e "Email" estão preenchidos com as informações do usuário logado.<br>3. Verificar se o campo "Senha" está preenchido com a senha do usuário logado (opcional, dependendo da política de segurança). | Os campos devem estar preenchidos com as informações corretas do usuário logado. | [Resultado obtido após execução dos passos.] | [Pass] |
 | **Editar Dados do Usuário** | Verificar se é possível editar os dados do usuário logado. | 1. Modificar os campos "Nome" e/ou "Email".<br>2. Clicar no botão "Salvar". | Os dados do usuário devem ser atualizados com sucesso no localStorage e o usuário deve receber um alerta informando "Informações atualizadas com sucesso". | [Resultado obtido após execução dos passos.] | [Pass] |
 | **Logout do Usuário** | Verificar se é possível fazer logout do usuário logado. | 1. Clicar no link "Logout". | O usuário deve ser redirecionado para a página de login ("login.html"). | [Resultado obtido após execução dos passos.] | [Pass] |
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
