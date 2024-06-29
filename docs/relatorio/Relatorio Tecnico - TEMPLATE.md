@@ -478,6 +478,14 @@ Nosso projeto possui as seguintes versões:
 | **Salvar Tarefas** | Verificar se as tarefas são salvas corretamente no localStorage. | 1. Adicionar várias tarefas à lista.<br>2. Recarregar a página.<br>3. Verificar se as tarefas adicionadas anteriormente estão presentes na lista. | As tarefas adicionadas anteriormente devem ser exibidas na lista após recarregar a página. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 | **Validação de Entrada** | Verificar se a validação impede a adição de tarefas em branco. | 1. Deixar o campo de entrada em branco.<br>2. Tentar adicionar uma nova tarefa. | A nova tarefa não deve ser adicionada à lista. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 
+**BARRA DE PROGRESSO**
+
+| Caso de Teste | Descrição | Passos | Resultado Esperado | Resultado Obtido | Status |
+|----------------|-----------|--------|--------------------|------------------|--------|
+| **Adicionar Tarefa** | Verificar se uma nova tarefa pode ser adicionada à lista. | 1. Digitar uma nova tarefa no campo de entrada.<br>2. Clicar no botão "Adicionar". | A nova tarefa deve ser exibida na lista de tarefas. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Editar Tarefa** | Verificar se é possível editar o texto de uma tarefa existente na lista. | 1. Clicar no botão "Editar" ao lado da tarefa desejada.<br>2. Modificar o texto da tarefa.<br>3. Clicar fora do campo editável para salvar. | O texto da tarefa deve ser atualizado com o novo valor. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Concluir Tarefa** | Verificar se é possível marcar uma tarefa como concluída. | 1. Clicar no botão "Concluir" ao lado da tarefa desejada. | A tarefa selecionada deve ser marcada como concluída visualmente (alteração de estilo). | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Excluir Tarefa** | Verificar se é possível excluir uma tarefa da lista. | 1. Clicar no botão "Excluir" ao lado da tarefa que deseja remover. | A tarefa selecionada deve ser removida da lista. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
 > esses pontos nas próximas iterações. Apresente as falhas detectadas e
