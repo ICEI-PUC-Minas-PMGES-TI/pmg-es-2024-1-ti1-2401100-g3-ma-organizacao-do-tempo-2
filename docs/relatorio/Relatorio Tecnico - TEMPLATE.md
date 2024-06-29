@@ -523,6 +523,16 @@ Nosso projeto possui as seguintes versões:
 | **Remover um Evento Existente** | Verificar se é possível remover um evento existente. | 1. Clicar em um evento existente no calendário.<br>2. Confirmar a exclusão do evento quando solicitado.<br>3. Verificar se o evento é removido corretamente do calendário. | O evento selecionado deve ser removido do calendário e não deve mais ser exibido. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 | **Persistência de Dados** | Verificar se os eventos adicionados são persistentes após recarregar a página. | 1. Adicionar alguns eventos no calendário.<br>2. Recarregar a página.<br>3. Verificar se os eventos adicionados anteriormente ainda estão presentes no calendário. | Os eventos adicionados anteriormente devem ser carregados e exibidos corretamente após a recarga da página. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 
+**BLOCO DE NOTAS**
+
+| Caso de Teste | Descrição | Passos | Resultado Esperado | Resultado Obtido | Status |
+|----------------|-----------|--------|--------------------|------------------|--------|
+| **Adicionar Nova Nota** | Verificar se é possível adicionar uma nova nota ao clicar em "New Note". | 1. Clicar na área "New Note".<br>2. Inserir um título e conteúdo para a nota quando solicitado.<br>3. Verificar se a nota é adicionada à lista de notas visível na interface. | A nota deve ser adicionada à lista de notas visível na interface, exibindo título, conteúdo e data corretamente formatados. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Editar Nota Existente** | Verificar se é possível editar uma nota existente ao clicar no botão "Edit". | 1. Clicar no botão "Edit" ao lado da nota desejada.<br>2. Modificar o título e/ou conteúdo da nota nos campos de edição apresentados.<br>3. Verificar se a nota na lista foi atualizada com as novas informações. | A nota na lista deve ser atualizada com o novo título e conteúdo após a edição. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Excluir Nota** | Verificar se é possível excluir uma nota ao clicar no botão "Delete". | 1. Clicar no botão "Delete" ao lado da nota desejada.<br>2. Verificar se a nota selecionada foi removida da lista de notas visível na interface. | A nota selecionada deve ser removida da lista de notas. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Salvar Notas no localStorage** | Verificar se as notas são salvas corretamente no localStorage. | 1. Adicionar várias notas.<br>2. Recarregar a página.<br>3. Verificar se as notas adicionadas anteriormente ainda estão na lista. | As notas devem ser restauradas na lista após a recarga da página. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Validação de Entrada** | Verificar se a validação impede a criação ou edição de notas sem título ou conteúdo. | 1. Tentar criar ou editar uma nota sem inserir título e/ou conteúdo.<br>2. Verificar se o sistema impede a operação e alerta o usuário. | O sistema não deve permitir a criação ou edição de notas sem título e conteúdo, exibindo alertas apropriados. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+
 # Referências
 
 Referencias utilizadas no trabalho:
