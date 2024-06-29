@@ -502,6 +502,17 @@ Nosso projeto possui as seguintes versões:
 | **Salvar Imagens no localStorage** | Verificar se as imagens são salvas corretamente no localStorage. | 1. Adicionar várias imagens.<br>2. Recarregar a página.<br>3. Verificar se as imagens adicionadas anteriormente ainda estão na lista. | As imagens devem ser restauradas na lista após a recarga da página. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 | **Validação de Entrada** | Verificar se a validação impede a adição de arquivos que não sejam imagens. | 1. Tentar adicionar um arquivo que não seja uma imagem (por exemplo, um arquivo de texto). | O sistema não deve permitir a adição do arquivo e deve manter a lista de imagens inalterada. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
 
+**CADASTRO DE TAREFA**
+
+| Caso de Teste | Descrição | Passos | Resultado Esperado | Resultado Obtido | Status |
+|----------------|-----------|--------|--------------------|------------------|--------|
+| **Adicionar Tarefa** | Verificar se é possível adicionar uma nova tarefa em uma coluna específica do quadro Kanban. | 1. Clicar no botão "+ Add" na coluna desejada.<br>2. Preencher o título e a descrição da tarefa no modal de adição.<br>3. Clicar no botão "Nova Tarefa". | A nova tarefa deve ser adicionada à coluna especificada com o título e descrição informados. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Editar Tarefa** | Verificar se é possível editar o título e a descrição de uma tarefa existente. | 1. Clicar duas vezes sobre o título ou a descrição de uma tarefa na coluna.<br>2. Editar o título e a descrição no prompt que aparece.<br>3. Confirmar a edição. | O título e a descrição da tarefa devem ser atualizados conforme editado. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Excluir Tarefa** | Verificar se é possível excluir uma tarefa do quadro Kanban. | 1. Clicar no botão "Delete" ao lado da tarefa que deseja excluir.<br>2. Confirmar a exclusão. | A tarefa selecionada deve ser removida da coluna e não deve mais aparecer no quadro. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Mover Tarefa entre Colunas** | Verificar se é possível mover uma tarefa entre as colunas do quadro Kanban. | 1. Arrastar uma tarefa de uma coluna para outra.<br>2. Verificar se a tarefa foi movida corretamente para a nova coluna. | A tarefa deve ser movida para a nova coluna e refletir essa mudança ao salvar. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Salvar Dados Localmente** | Verificar se as tarefas adicionadas, editadas ou removidas são salvas corretamente no localStorage. | 1. Realizar alterações no quadro Kanban.<br>2. Recarregar a página.<br>3. Verificar se as alterações feitas anteriormente persistem no quadro. | As alterações devem ser restauradas corretamente no quadro após a recarga da página. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+| **Validação de Entrada** | Verificar se há validação para garantir que campos obrigatórios não sejam deixados em branco ao adicionar uma tarefa. | 1. Tentar adicionar uma tarefa sem preencher o título ou a descrição.<br>2. Verificar se há impedimento de adição da tarefa sem os campos preenchidos. | O sistema não deve permitir a adição da tarefa e deve solicitar o preenchimento dos campos obrigatórios. | [Resultado obtido após execução dos passos.] | [Pass/Fail] |
+
 
 # Referências
 
