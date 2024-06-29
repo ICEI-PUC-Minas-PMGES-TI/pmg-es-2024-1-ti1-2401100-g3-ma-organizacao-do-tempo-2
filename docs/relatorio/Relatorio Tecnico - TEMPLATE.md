@@ -431,7 +431,7 @@ O objetivo geral deste projeto é desenvolver um software que aborde de maneira 
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> ![Exemplo de Arquitetura](images/diagrama.png)
 
 
 # Avaliação da Aplicação
