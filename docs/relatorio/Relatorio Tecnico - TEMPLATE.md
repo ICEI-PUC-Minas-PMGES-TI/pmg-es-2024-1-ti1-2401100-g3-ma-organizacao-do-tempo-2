@@ -286,9 +286,6 @@ Nosso projeto possui as seguintes versões:
 > - `feature`: Criação de nova interfaçe
 > - `feature`: Criação de novas funcionalidades
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
-
 # Projeto da Solução
 
 O objetivo geral deste projeto é desenvolver um software que aborde de maneira eficaz o problema da má gestão do tempo no ambiente corporativo, estudandil e cotidiano. A solução visa oferecer ferramentas que otimizem a alocação e utilização do tempo pelos colaboradores, com o propósito de aumentar a produtividade e a eficiência organizacional.
