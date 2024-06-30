@@ -333,7 +333,7 @@ Ferramentas utilizadas:
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVNiWktVo=/?share_link_id=67229329199Links | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Hospedagem do site | GitHub | rangel05.github.io | 
 |Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/proto/Poeie0lrm3Qfnbh7NKgyQ3/Trabalho-Interdisciplinar?node-id=1-11&mode=design&t=VUSMkUHQmAhaExEL-1 | 
 
 >
