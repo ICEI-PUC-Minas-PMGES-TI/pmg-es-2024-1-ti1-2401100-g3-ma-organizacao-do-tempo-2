@@ -1,6 +1,6 @@
 `TÍTULO DO PROJETO`  
 
-# Má Organização do Tempo 2
+# myORGANIZATOR
 
 `CURSO` 
 
