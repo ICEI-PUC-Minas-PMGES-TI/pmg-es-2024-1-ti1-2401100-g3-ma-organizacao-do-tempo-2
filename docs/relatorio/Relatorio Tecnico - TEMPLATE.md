@@ -388,16 +388,6 @@ As tecnologias utilizadas serão questionarios de perguntas paras estudades e tr
 | **Editar Dados do Usuário** | Verificar se é possível editar os dados do usuário logado. | 1. Modificar os campos "Nome" e/ou "Email".<br>2. Clicar no botão "Salvar". | Os dados do usuário devem ser atualizados com sucesso no localStorage e o usuário deve receber um alerta informando "Informações atualizadas com sucesso". | [Resultado obtido após execução dos passos.] | [Aprovado] |
 | **Logout do Usuário** | Verificar se é possível fazer logout do usuário logado. | 1. Clicar no link "Logout". | O usuário deve ser redirecionado para a página de login ("login.html"). | [Resultado obtido após execução dos passos.] | [Aprovado] |
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
 ## Registros de Testes
 
 Depois de realizar e analisar os testes do login, do cadastro, do gerenciamento de usuário, do to do list, da barra de progresso, do imagem uploader, do cadastro de tarefa, do calendario e do bloco de notas, identificamos bastante pontos fortes e pontos de melhoria. Os pontos de melhoria encontrados foram apenas algumas pequenas falhasna formatação, desingn e armazenamento dos dados de algumas funcionalidades durante os testes Para melhorar, refizemos o java script responsavél por armazenar os dados e melhoramos o html e css das estruturas.
@@ -408,9 +398,3 @@ Referencias utilizadas no trabalho:
 - https://miro.com/
 - https://www.figma.com/
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
