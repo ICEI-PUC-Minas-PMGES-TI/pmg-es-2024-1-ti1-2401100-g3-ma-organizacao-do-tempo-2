@@ -1,0 +1,238 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(-89.63deg, #0f0f0f, #202020 99%),
+    linear-gradient(-89.63deg, #0f0f0f, #202020 99%);
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  .upload-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .upload-label {
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .upload-square {
+    width: 200px;
+    height: 200px;
+    background-color: #f3f3f3;
+    border: 2px dashed #ccc;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease;
+  }
+  
+  .upload-square:hover {
+    border-color: #aaa;
+  }
+  
+  .upload-icon {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  
+  .upload-text {
+    font-size: 16px;
+  }
+  
+  .image-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .image-block {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: calc(33.33% - 20px); /* 33.33% - 20px para margens */
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  .image-block img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .actions {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: none;
+  }
+  
+  .image-block:hover .actions {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .actions button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .actions button.delete {
+    background-color: red;
+    color: white;
+  }
+  
+  .actions button.edit {
+    background-color: yellow;
+    color: black;
+  }
+  
+  .actions button i {
+    font-size: 16px;
+  }
+  
+  .actions button.delete i::before {
+    content: "\f00d";
+  }
+  
+  .actions button.edit i::before {
+    content: "\f044";
+  }
+  
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    width: 72%;
+    max-width: 80%;
+    max-height: 80%;
+    transition: transform 0.3s ease;
+  }
+  
+  .close {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #999;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .image-block {
+      width: calc(50% - 20px); /* 50% - 20px para margens */
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .image-block {
+      width: calc(100% - 20px); /* 100% - 20px para margens */
+    }
+  }
+  
+
+
+
+
+
+
+  .shape-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    background-color: var(--color-darkgray);
+    width: 100%;
+    height: 100%;
+  }
+  .image-4-icon {
+    position: absolute;
+    top: 5.7px;
+    left: 5.7px;
+    width: 27.5px;
+    height: 27.5px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .shape-image-parent {
+    width: 39px;
+    height: 39px;
+    position: absolute;
+    margin: 0 !important;
+    right: 29px;
+    bottom: 23px;
+    cursor: pointer;
+    z-index: 1;
+  }
+  .ellipse-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+  }
+  .image-6-icon {
+    position: absolute;
+    top: 6.9px;
+    left: 8px;
+    width: 26.4px;
+    height: 26.4px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .ellipse-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .group-div {
+    width: 39px;
+    height: 39px;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1;
+}

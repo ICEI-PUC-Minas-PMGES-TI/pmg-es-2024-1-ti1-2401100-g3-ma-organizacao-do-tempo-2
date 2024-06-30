@@ -1,0 +1,328 @@
+:root {
+    --primary-clr: #e27f1b;
+    --secondary-clr: #f5a623;
+    --tertiary-clr: #4a90e2;
+    --background-clr: #ffffff;
+    --text-clr: #373c4f;
+    --border-clr: #dcdcdc;
+    --hover-clr: #f5f5f5;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(-89.63deg, #0f0f0f, #202020 99%),
+    linear-gradient(-89.63deg, #0f0f0f, #202020 99%);
+    padding: 20px;
+  }
+  .container {
+    width: 1200px;
+    background: var(--background-clr);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  .filter-container {
+    padding: 15px;
+    border-radius: 10px;
+    background: var(--hover-clr);
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .filter-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--text-clr);
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .filter-options {
+    display: flex;
+    justify-content: space-around;
+  }
+  .filter-option {
+    display: flex;
+    align-items: center;
+  }
+  .filter-checkbox {
+    display: none;
+  }
+  .filter-checkbox:checked + .filter-label {
+    background: var(--primary-clr);
+    color: #fff;
+    border-radius: 5px;
+  }
+  .filter-label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 1rem;
+    padding: 10px;
+    cursor: pointer;
+    border: 2px solid var(--primary-clr);
+    border-radius: 5px;
+    transition: background 0.3s, color 0.3s;
+  }
+  .filter-label:hover {
+    background: var(--secondary-clr);
+    color: #fff;
+  }
+  .filter-icon {
+    font-size: 1.2rem;
+  }
+  .left {
+    margin-top: 20px;
+  }
+  .calendar {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: var(--background-clr);
+    padding: 20px;
+  }
+  .month {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.5rem;
+    color: var(--text-clr);
+  }
+  .month i {
+    cursor: pointer;
+  }
+  .weekdays {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 0 10px;
+    color: var(--text-clr);
+    font-weight: bold;
+  }
+  .days {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  .day {
+    width: 14.28%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  .day:hover {
+    background: var(--hover-clr);
+    border-radius: 5px;
+  }
+  .goto-today {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .goto input {
+    padding: 5px;
+    border: 1px solid var(--border-clr);
+    border-radius: 5px;
+  }
+  .goto-btn, .today-btn {
+    background: var(--primary-clr);
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  .goto-btn:hover, .today-btn:hover {
+    background: var(--secondary-clr);
+  }
+  .right {
+    margin-top: 20px;
+  }
+  .today-date {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    font-size: 1.2rem;
+    color: var(--text-clr);
+  }
+  .events {
+    max-height: 300px;
+    overflow-y: auto;
+    margin-top: 10px;
+  }
+  .event {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s;
+  }
+  .event:hover {
+    background: var(--hover-clr);
+  }
+  .event-title {
+    margin-left: 10px;
+    font-weight: bold;
+  }
+  .event-time {
+    margin-left: auto;
+    font-size: 0.9rem;
+    color: var(--text-clr);
+  }
+  .add-event-wrapper {
+    margin-top: 20px;
+    padding: 15px;
+    background: var(--hover-clr);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .add-event-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .add-event-header .title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--text-clr);
+  }
+  .add-event-body {
+    margin-top: 15px;
+  }
+  .add-event-input {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  .add-event-input input, .add-event-input select {
+    padding: 10px;
+    border: 1px solid var(--border-clr);
+    border-radius: 5px;
+    transition: border-color 0.3s;
+  }
+  .add-event-input input:focus, .add-event-input select:focus {
+    border-color: var(--primary-clr);
+  }
+  .add-event-footer {
+    display: flex;
+    justify-content: center;
+  }
+  .add-event-btn {
+    background: var(--primary-clr);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  .add-event-btn:hover {
+    background: var(--secondary-clr);
+  }
+  .add-event {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    background: var(--primary-clr);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  .add-event:hover {
+    background: var(--secondary-clr);
+  }
+
+
+
+
+
+
+
+
+  .shape-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    background-color: var(--color-darkgray);
+    width: 100%;
+    height: 100%;
+  }
+  .image-4-icon {
+    position: absolute;
+    top: 5.7px;
+    left: 5.7px;
+    width: 27.5px;
+    height: 27.5px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .shape-image-parent {
+    width: 39px;
+    height: 39px;
+    position: absolute;
+    margin: 0 !important;
+    right: 29px;
+    bottom: 23px;
+    cursor: pointer;
+    z-index: 1;
+  }
+  .ellipse-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+  }
+  .image-6-icon {
+    position: absolute;
+    top: 6.9px;
+    left: 8px;
+    width: 26.4px;
+    height: 26.4px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .ellipse-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .group-div {
+    width: 39px;
+    height: 39px;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1;
+}

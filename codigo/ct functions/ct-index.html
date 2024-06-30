@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quadro Kanban</title>
+    <link rel="stylesheet" href="ct-style.css">
+</head>
+<body>
+    <div class="kanban">
+        <div class="kanban__column" data-id="1">
+            <div class="kanban__column-title">Não Iniciada</div>
+            <div class="kanban__column-items"></div>
+            <button class="kanban__add-item" type="button"><b>+ Add</b></button>
+        </div>
+        <div class="kanban__column" data-id="2">
+            <div class="kanban__column-title">Em Andamento</div>
+            <div class="kanban__column-items"></div>
+            <button class="kanban__add-item" type="button"><b>+ Add</b></button>
+        </div>
+        <div class="kanban__column" data-id="3">
+            <div class="kanban__column-title">Finalizada</div>
+            <div class="kanban__column-items"></div>
+            <button class="kanban__add-item" type="button"><b>+ Add</b></button>
+        </div>
+    </div>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <span class="close-button" id="close-button">&times;</span>
+            <h2>Adicionar nova tarefa</h2>
+            <label for="task-title">Título</label>
+            <textarea id="task-title" placeholder="Insira o título da tarefa"></textarea>
+            <label for="task-desc">Descrição</label>
+            <textarea id="task-desc" placeholder="Insira a descrição da tarefa"></textarea>
+            <button id="add-task-button"><b>Nova Tarefa</b></button>
+        </div>
+    </div>
+
+    <a href="..\options.html"><div class="group-div" id="groupContainer1">
+        <div class="ellipse-parent">
+          <div class="ellipse-div"></div>
+          <img
+            class="image-6-icon"
+            loading="lazy"
+            alt=""
+            src="./exitimg/image-6@2x.png"
+          />
+        </div>
+      </div>
+    </div></a>
+
+    <script src="ct-script.js"></script>
+</body>
+</html>

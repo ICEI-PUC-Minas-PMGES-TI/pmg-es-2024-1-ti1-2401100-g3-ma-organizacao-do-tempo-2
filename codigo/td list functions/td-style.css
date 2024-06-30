@@ -1,0 +1,229 @@
+:root {
+    --dark: #374151;
+    --darker: #121820;
+    --darkest: #000000;
+    --grey: #6B7280;
+    --pink: #EC4899;
+    --purple: #8B5CF6;
+    --light: #EEE;
+    --orange: #dd7520;
+  }
+  
+  * {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Fira sans", sans-serif;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    color: #FFF;
+    background: linear-gradient(-89.63deg, #0f0f0f, #202020 99%),
+    linear-gradient(-89.63deg, #0f0f0f, #202020 99%);
+  }
+  
+  header {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: var(--orange);
+    margin-bottom: 1rem;
+  }
+  
+  #new-task-form {
+    display: flex;
+    ;
+  }
+  
+  input,
+  button {
+    appearance: none;
+    border: none;
+    outline: none;
+    background: none;
+  }
+  
+  #new-task-input {
+    flex: 1 1 0%;
+    background-color: var(--darkest);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-right: 1rem;
+    color: var(--light);
+    font-size: 1.25rem;
+  }
+  
+  #new-task-input::placeholder {
+    color: var(--grey);
+  }
+  
+  #new-task-submit {
+    color: var(--orange);
+    font-size: 1.25rem;
+    font-weight: 700;
+    background-image: linear-gradient(to right, var(--orange), var(--light));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: pointer;
+    transition: 0.4s;
+  }
+  
+  #new-task-submit:hover {
+    opacity: 0.8;
+  }
+  
+  #new-task-submit:active {
+    opacity: 0.6;
+  }
+  
+  main {
+    flex: 1 1 0%;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .task-list {
+    padding: 1rem;
+  }
+  
+  .task-list h2 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: var(--orange);
+    margin-bottom: 1rem;
+  }
+  
+  #tasks .task {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--darkest);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .task .content {
+    flex: 1 1 0%;
+  }
+  
+  .task .content .text {
+    color: var(--light);
+    font-size: 1.125rem;
+    width: 100%;
+    display: block;
+    transition: 0.4s;
+  }
+  
+  .task .content .text:not(:read-only) {
+    color: var(--light);
+  }
+  
+  .task .actions {
+    display: flex;
+    margin: 0 -0.5rem;
+  }
+  
+  .task .actions button {
+    cursor: pointer;
+    margin: 0 0.5rem;
+    font-size: 1.125rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.4s;
+  }
+  
+  .task .actions button:hover {
+    opacity: 0.8;
+  }
+  
+  .task .actions button:active {
+    opacity: 0.6;
+  }
+  
+  .task .actions .edit {
+    background-image: linear-gradient(to right, var(--orange), var(--light));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .task .actions .delete {
+    color: crimson;
+  }
+
+
+
+
+
+
+
+  
+  .shape-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    background-color: var(--color-darkgray);
+    width: 100%;
+    height: 100%;
+  }
+  .image-4-icon {
+    position: absolute;
+    top: 5.7px;
+    left: 5.7px;
+    width: 27.5px;
+    height: 27.5px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .shape-image-parent {
+    width: 39px;
+    height: 39px;
+    position: absolute;
+    margin: 0 !important;
+    right: 29px;
+    bottom: 23px;
+    cursor: pointer;
+    z-index: 1;
+  }
+  .ellipse-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+  }
+  .image-6-icon {
+    position: absolute;
+    top: 6.9px;
+    left: 8px;
+    width: 26.4px;
+    height: 26.4px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .ellipse-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .group-div {
+    width: 39px;
+    height: 39px;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Imagens</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="up-style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="upload-container">
+      <input type="file" id="uploadInput" style="display: none;" accept="image/*">
+      <label for="uploadInput" class="upload-label">
+        <div class="upload-square">
+          <div class="upload-icon">
+            <i class="fas fa-cloud-upload-alt"></i>
+          </div>
+          <div class="upload-text">Adicionar Imagem</div>
+        </div>
+      </label>
+    </div>
+    <div class="image-list" id="imageList">
+    </div>
+  </div>
+
+  <div class="modal" id="imageModal">
+    <span class="close" id="closeModal">&times;</span>
+    <img class="modal-content" id="modalImage">
+  </div>
+
+  <a href="..\options.html"><div class="group-div" id="groupContainer1">
+    <div class="ellipse-parent">
+      <div class="ellipse-div"></div>
+      <img
+        class="image-6-icon"
+        loading="lazy"
+        alt=""
+        src="./exitimg/image-6@2x.png"
+      />
+    </div>
+  </div>
+</div></a>
+
+  <script src="up-script.js"></script>
+</body>
+</html>
