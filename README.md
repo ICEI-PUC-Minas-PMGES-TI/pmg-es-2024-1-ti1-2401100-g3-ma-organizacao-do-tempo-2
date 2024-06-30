@@ -18,6 +18,4 @@ Nosso projeto tem como objetivo trazer um software que ajuda pessoas a organizar
 
 ## Instruções de utilização
 
-Não é necessario instalar nenhuma independencia no software, é necessario somente acessar o link do software ou o index.html do arquivo que possui os codigos fontes. 
-
 Link: https://rangel05.github.io/
