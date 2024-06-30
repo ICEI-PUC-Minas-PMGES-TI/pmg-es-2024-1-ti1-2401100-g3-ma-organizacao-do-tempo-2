@@ -246,17 +246,6 @@ Nosso projeto possui um sistema de interfaces minimalista e simples que colabora
 
 > ![Userflow](imaages/../images/wireflow.jpg)
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
-
 ## Wireframes
 
 LINK PARA MELHOR VISUALIZAÇÃO:
@@ -264,18 +253,6 @@ LINK PARA MELHOR VISUALIZAÇÃO:
 [Projeto de Interface | Wireframe](https://www.figma.com/proto/Poeie0lrm3Qfnbh7NKgyQ3/Trabalho-Interdisciplinar?node-id=1-11&mode=design&t=VUSMkUHQmAhaExEL-1)
 
 > ![Witeframe](imaages/../images/wireframe.png)
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-
 
 # Metodologia
 
@@ -301,29 +278,6 @@ Ferramentas utilizadas:
 |Hospedagem do site | GitHub | https://rangel05.github.io | 
 |Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/proto/Poeie0lrm3Qfnbh7NKgyQ3/Trabalho-Interdisciplinar?node-id=1-11&mode=design&t=VUSMkUHQmAhaExEL-1 | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
-
 ## Controle de Versão
 
 Nosso projeto possui as seguintes versões:
@@ -332,83 +286,26 @@ Nosso projeto possui as seguintes versões:
 > - `feature`: Criação de nova interfaçe
 > - `feature`: Criação de novas funcionalidades
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
-
 # **############## SPRINT 1 ACABA AQUI #############**
 
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral deste projeto é desenvolver um software que aborde de maneira eficaz o problema da má gestão do tempo no ambiente corporativo, estudandil e cotidiano. A solução visa oferecer ferramentas que otimizem a alocação e utilização do tempo pelos colaboradores, com o propósito de aumentar a produtividade e a eficiência organizacional.
 
 ## Tecnologias Utilizadas
 
-O objetivo geral deste projeto é desenvolver um software que aborde de maneira eficaz o problema da má gestão do tempo no ambiente corporativo, estudandil e cotidiano. A solução visa oferecer ferramentas que otimizem a alocação e utilização do tempo pelos colaboradores, com o propósito de aumentar a produtividade e a eficiência organizacional. As tecnologias utilizadas serão questionarios de perguntas paras estudades e trabalhadores em geral para podermos criar uma solução que atenda os problemas enumerados por eles, além disso vamos utilizar o desing thinking, scrum para organização das tarefas, github para organização da produção do projeto, Visual Studio Code para implementação dos codigos, miro figma e canvas para produção do desing, capcut para edição do video, PowerPoint para produção da apresetação, google para pesquisas em geral, e possivelmente heroku para fazer hospedagem do site. As linguagens utilizadas serão HTML, CSS e JAVA SCRIPT.
+As tecnologias utilizadas serão questionarios de perguntas paras estudades e trabalhadores em geral para podermos criar uma solução que atenda os problemas enumerados por eles, além disso vamos utilizar o desing thinking, scrum para organização das tarefas, github para organização da produção do projeto, Visual Studio Code para implementação dos codigos, miro figma e canvas para produção do desing, capcut para edição do video, PowerPoint para produção da apresetação, google para pesquisas em geral, e possivelmente heroku para fazer hospedagem do site. As linguagens utilizadas serão HTML, CSS e JAVA SCRIPT.
 
 > ![Userflow](imaages/../images/wireflow.jpg)
 > ![Witeframe](imaages/../images/wireframe.png)
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
-
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
 > ![Exemplo de Arquitetura](images/diagrama.png)
 
 
 # Avaliação da Aplicação
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 
@@ -504,25 +401,9 @@ O objetivo geral deste projeto é desenvolver um software que aborde de maneira 
 > - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
 ## Registros de Testes
 
 Depois de realizar e analisar os testes do login, do cadastro, do gerenciamento de usuário, do to do list, da barra de progresso, do imagem uploader, do cadastro de tarefa, do calendario e do bloco de notas, identificamos bastante pontos fortes e pontos de melhoria. Os pontos de melhoria encontrados foram apenas algumas pequenas falhasna formatação, desingn e armazenamento dos dados de algumas funcionalidades durante os testes Para melhorar, refizemos o java script responsavél por armazenar os dados e melhoramos o html e css das estruturas.
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
 
 # Referências
 
