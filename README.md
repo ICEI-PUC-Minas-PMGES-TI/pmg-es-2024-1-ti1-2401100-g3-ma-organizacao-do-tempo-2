@@ -1,5 +1,5 @@
 # Projeto myORGANIZATOR
-Nosso projeto tem como objetivo trazer um software que ajuda pessoas a organizarem seu tempo de maneira facil e eficaz. 
+Nosso projeto tem como objetivo trazer um software que ajuda pessoas a organizarem seu tempo de maneira facil e eficaz, de forma prática e rápida aumentando a prdutividade no seu dia a dia. 
 
 ## Alunos integrantes da equipe
 
